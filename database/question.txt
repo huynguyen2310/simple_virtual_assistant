@@ -1,0 +1,4 @@
+What is your name?
+Where do you live?
+Where do you come from?
+How are you?
